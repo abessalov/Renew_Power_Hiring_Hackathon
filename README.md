@@ -19,7 +19,7 @@ In this hackathon, ReNew Power shared minute-wise normalized data of wind speed,
 
 We have the following features as input divided into train and test sets (909604 and 303202 rows respectively):
 
-![Alt text](img/data.png?raw=true "data")
+![Alt text](https://github.com/abessalov/Renew_Power_Hiring_Hackathon/master/img/data.png?raw=true "data")
 
 ## Results
 The evaluation metric of that competition is Mean Average Percentage Error. The best MAPE on the public leader-board is 0.00943
