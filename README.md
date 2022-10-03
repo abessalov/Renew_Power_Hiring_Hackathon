@@ -19,12 +19,12 @@ In this hackathon, ReNew Power shared minute-wise normalized data of wind speed,
 
 We have the following features as input divided into train and test sets (909604 and 303202 rows respectively):
 
-![Screenshot](img/data.png)
+![Alt text](img/data.png)
 
 ## Results
 The evaluation metric of that competition is Mean Average Percentage Error. The best MAPE on the public leader-board is 0.00943
 
 After some explorations we decided to train individual models for every unique turbine_id because they are different. In the table below placed MAPE scores of the best found models on the validation set:
 
-![Screenshot](img/results.png)
+![Alt text](img/results.png)
 
